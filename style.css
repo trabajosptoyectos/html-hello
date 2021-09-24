@@ -1,0 +1,47 @@
+header{
+    background: white;
+    text-align: center;
+    margin-bottom: 10px;
+    
+
+}
+
+header h1{
+    margin: 0;
+    padding: 5px;
+}
+body{
+    background: grey;
+    margin: 0;
+}
+
+.post{
+    margin: auto;
+    width: 600px;
+    background: white;
+}
+
+.post h1, p{
+    padding: 5px;
+} 
+
+.card-header{
+    display: flex;
+    
+}
+.card-header h1{
+    width: 80%;
+    
+    
+}
+.card-header span{
+    width: 20%;
+    margin-top: 5%;
+    text-align: right;
+    padding: 3px;
+    color: grey;
+}
+
+.card-img img{
+    width: 100%;
+}
